@@ -1,0 +1,17 @@
+{
+  "name": "redis-cluster-ioredis",
+  "version": "1.0.0",
+  "description": "Test for connecting to redis using ioredis with cluster",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@xblockchainlabs/xblkue": "^1.0.9",
+    "@xblockchainlabs/xblog": "^1.1.4",
+    "ioredis": "^4.9.0",
+    "kue": "^0.11.6"
+  }
+}
